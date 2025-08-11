@@ -23,5 +23,3 @@ The program takes the following inputs:
 7. open html index.html
 
 ---
-
-## Output
