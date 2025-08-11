@@ -1,0 +1,611 @@
+CG_S_16 (A lot communication diagonal):
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    72906930.09
+    Total Distance x Byte After:     67421415.29
+    Percentage Change (Total):       -7.52%
+    Max Distance x Byte Before:      2344687.22
+    Max Distance x Byte After:       2568476.16
+    Percentage Change (Max):         9.54%
+
+    Manhattan:
+    Total Distance x Byte Before:    83886224.00
+    Total Distance x Byte After:     92274976.00
+    Percentage Change (Total):       10.00%
+    Max Distance x Byte Before:      3145728.00
+    Max Distance x Byte After:       4194304.00
+    Percentage Change (Max):         33.33%
+
+    Chebyshev:
+    Total Distance x Byte Before:    67109008.00
+    Total Distance x Byte After:     54526144.00
+    Percentage Change (Total):       -18.75%
+    Max Distance x Byte Before:      2097152.00
+    Max Distance x Byte After:       2097152.00
+    Percentage Change (Max):         0.00%
+    ==================================================
+
+CG_D_256 (A lot communication diagonal):
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    9485051087186.36
+    Total Distance x Byte After:     5257810321906.37
+    Percentage Change (Total):       -44.57%
+    Max Distance x Byte Before:      15149370845.38
+    Max Distance x Byte After:       16054594790.08
+    Percentage Change (Max):         5.98%
+
+    Manhattan:
+    Total Distance x Byte Before:    10342281254336.00        
+    Total Distance x Byte After:     7012607871840.00
+    Percentage Change (Total):       -32.19%
+    Max Distance x Byte Before:      16911433728.00
+    Max Distance x Byte After:       22548578304.00
+    Percentage Change (Max):         33.33%
+
+    Chebyshev:
+    Total Distance x Byte Before:    9139690411456.00
+    Total Distance x Byte After:     4502199481184.00
+    Percentage Change (Total):       -50.74%
+    Max Distance x Byte Before:      15032385536.00
+    Max Distance x Byte After:       15032385536.00
+    Percentage Change (Max):         0.00%
+    ==================================================
+
+
+/ ------------------------------------------------------------------------------------- /
+
+DT_S_16 (communication on bottom left and top right also its for 12 nodes not 16):
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    1147146.02
+    Total Distance x Byte After:     1272605.97
+    Percentage Change (Total):       10.94%
+    Max Distance x Byte Before:      99322.72
+    Max Distance x Byte After:       99322.72
+    Percentage Change (Max):         0.00%
+
+    Manhattan:
+    Total Distance x Byte Before:    1589328.00
+    Total Distance x Byte After:     1916992.00
+    Percentage Change (Total):       20.62%
+    Max Distance x Byte Before:      172032.00
+    Max Distance x Byte After:       172032.00
+    Percentage Change (Max):         0.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    852000.00
+    Total Distance x Byte After:     852000.00
+    Percentage Change (Total):       0.00%
+    Max Distance x Byte Before:      57344.00
+    Max Distance x Byte After:       57344.00
+    Percentage Change (Max):         0.00%
+    ==================================================
+
+/ ------------------------------------------------------------------------------------- /
+
+EP_S_16:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    6944.00
+    Total Distance x Byte After:     7826.03
+    Percentage Change (Total):       12.70%
+    Max Distance x Byte Before:      192.00
+    Max Distance x Byte After:       192.00
+    Percentage Change (Max):         0.00%
+
+    Manhattan:
+    Total Distance x Byte Before:    6944.00
+    Total Distance x Byte After:     9888.00
+    Percentage Change (Total):       42.40%
+    Max Distance x Byte Before:      192.00
+    Max Distance x Byte After:       192.00
+    Percentage Change (Max):         0.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    6944.00
+    Total Distance x Byte After:     6368.00
+    Percentage Change (Total):       -8.29%
+    Max Distance x Byte Before:      192.00
+    Max Distance x Byte After:       192.00
+    Percentage Change (Max):         0.00%
+    ==================================================
+
+EP_D_256:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    105408.00
+    Total Distance x Byte After:     245287.81
+    Percentage Change (Total):       132.70%
+    Max Distance x Byte Before:      768.00
+    Max Distance x Byte After:       768.00
+    Percentage Change (Max):         0.00%
+
+    Manhattan:
+    Total Distance x Byte Before:    105408.00
+    Total Distance x Byte After:     316608.00
+    Percentage Change (Total):       200.36%
+    Max Distance x Byte Before:      768.00
+    Max Distance x Byte After:       960.00
+    Percentage Change (Max):         25.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    105408.00
+    Total Distance x Byte After:     214848.00
+    Percentage Change (Total):       103.83%
+    Max Distance x Byte Before:      768.00
+    Max Distance x Byte After:       768.00
+    Percentage Change (Max):         0.00%
+    ==================================================
+
+/ ------------------------------------------------------------------------------------- /
+
+LU_S_16:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    9449060.69
+    Total Distance x Byte After:     11458460.62
+    Percentage Change (Total):       21.27%
+    Max Distance x Byte Before:      278045.70
+    Max Distance x Byte After:       481589.28
+    Percentage Change (Max):         73.21%
+
+    Manhattan:
+    Total Distance x Byte Before:    10294592.00
+    Total Distance x Byte After:     14751936.00
+    Percentage Change (Total):       43.30%
+    Max Distance x Byte Before:      393216.00
+    Max Distance x Byte After:       786432.00
+    Percentage Change (Max):         100.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    8851264.00
+    Total Distance x Byte After:     9638432.00
+    Percentage Change (Total):       8.89%
+    Max Distance x Byte Before:      196608.00
+    Max Distance x Byte After:       393216.00
+    Percentage Change (Max):         100.00%
+    ==================================================
+
+LU_D_256:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    326570420867.88
+    Total Distance x Byte After:     676925561642.56
+    Percentage Change (Total):       107.28%
+    Max Distance x Byte Before:      474531328.12
+    Max Distance x Byte After:       1710947035.36
+    Percentage Change (Max):         260.56%
+
+    Manhattan:
+    Total Distance x Byte Before:    332860254848.00
+    Total Distance x Byte After:     880469157376.00
+    Percentage Change (Total):       164.52%
+    Max Distance x Byte Before:      671088640.00
+    Max Distance x Byte After:       2013265920.00
+    Percentage Change (Max):         200.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    322122836608.00
+    Total Distance x Byte After:     595927298752.00
+    Percentage Change (Total):       85.00%
+    Max Distance x Byte Before:      335544320.00
+    Max Distance x Byte After:       1677721600.00
+    Percentage Change (Max):         400.00%
+    ===================================================
+
+
+/ ------------------------------------------------------------------------------------- /
+
+MG_S_16:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    5090761.95
+    Total Distance x Byte After:     5560840.38
+    Percentage Change (Total):       9.23%
+    Max Distance x Byte Before:      114688.00
+    Max Distance x Byte After:       160529.76
+    Percentage Change (Max):         39.97%
+
+    Manhattan:
+    Total Distance x Byte Before:    5708800.00
+    Total Distance x Byte After:     7819264.00
+    Percentage Change (Total):       36.97%
+    Max Distance x Byte Before:      131072.00
+    Max Distance x Byte After:       262144.00
+    Percentage Change (Max):         100.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    4654080.00
+    Total Distance x Byte After:     4303360.00
+    Percentage Change (Total):       -7.54%
+    Max Distance x Byte Before:      114688.00
+    Max Distance x Byte After:       131072.00
+    Percentage Change (Max):         14.29%
+    ==================================================
+
+MG_D_256:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    176276486109.30
+    Total Distance x Byte After:     169576122740.95
+    Percentage Change (Total):       -3.80%
+    Max Distance x Byte Before:      207522701.02
+    Max Distance x Byte After:       450179945.39
+    Percentage Change (Max):         116.93%
+
+    Manhattan:
+    Total Distance x Byte Before:    186848829440.00
+    Total Distance x Byte After:     208595253248.00
+    Percentage Change (Total):       11.64%
+    Max Distance x Byte Before:      251658240.00
+    Max Distance x Byte After:       603979776.00
+    Percentage Change (Max):         140.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    173962371072.00
+    Total Distance x Byte After:     154230011904.00
+    Percentage Change (Total):       -11.34%
+    Max Distance x Byte Before:      201326592.00
+    Max Distance x Byte After:       402653184.00
+    Percentage Change (Max):         100.00%
+    ==================================================
+
+
+/ ------------------------------------------------------------------------------------- /
+
+MINI_AERO_4:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    10740752.22
+    Total Distance x Byte After:     9437855.06
+    Percentage Change (Total):       -12.13%
+    Max Distance x Byte Before:      2224365.60
+    Max Distance x Byte After:       1572864.00
+    Percentage Change (Max):         -29.29%
+
+    Manhattan:
+    Total Distance x Byte Before:    12583552.00
+    Total Distance x Byte After:     9438080.00
+    Percentage Change (Total):       -25.00%
+    Max Distance x Byte Before:      3145728.00
+    Max Distance x Byte After:       1572864.00
+    Percentage Change (Max):         -50.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    9437696.00
+    Total Distance x Byte After:     9437696.00
+    Percentage Change (Total):       0.00%
+    Max Distance x Byte Before:      1572864.00
+    Max Distance x Byte After:       1572864.00
+    Percentage Change (Max):         0.00%
+    ==================================================
+
+MINI_AERO_32:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    10740752.22
+    Total Distance x Byte After:     9437855.06
+    Percentage Change (Total):       -12.13%
+    Max Distance x Byte Before:      2224365.60
+    Max Distance x Byte After:       1572864.00
+    Percentage Change (Max):         -29.29%
+
+    Manhattan:
+    Total Distance x Byte Before:    12583552.00
+    Total Distance x Byte After:     9438080.00
+    Percentage Change (Total):       -25.00%
+    Max Distance x Byte Before:      3145728.00
+    Max Distance x Byte After:       1572864.00
+    Percentage Change (Max):         -50.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    9437696.00
+    Total Distance x Byte After:     9437696.00
+    Percentage Change (Total):       0.00%
+    Max Distance x Byte Before:      1572864.00
+    Max Distance x Byte After:       1572864.00
+    Percentage Change (Max):         0.00%
+    ==================================================
+
+MINI_AERO_128:
+    Torus traffic comparison (Before vs. After Hilbert Mapping):
+
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    649175903.30
+    Total Distance x Byte After:     598543177.24
+    Percentage Change (Total):       -7.80%
+    Max Distance x Byte Before:      3145728.00
+    Max Distance x Byte After:       4448731.20
+    Percentage Change (Max):         41.42%
+
+    Manhattan:
+    Total Distance x Byte Before:    714768640.00
+    Total Distance x Byte After:     765158144.00
+    Percentage Change (Total):       7.05%
+    Max Distance x Byte Before:      3145728.00
+    Max Distance x Byte After:       6291456.00
+    Percentage Change (Max):         100.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    605017984.00
+    Total Distance x Byte After:     482368000.00
+    Percentage Change (Total):       -20.27%
+    Max Distance x Byte Before:      3145728.00
+    Max Distance x Byte After:       3145728.00
+    Percentage Change (Max):         0.00%
+    ==================================================
+
+MINI_AERO_512:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    773320658.74
+    Total Distance x Byte After:     1569107989.65
+    Percentage Change (Total):       102.91%
+    Max Distance x Byte Before:      556091.40
+    Max Distance x Byte After:       1597250.94
+    Percentage Change (Max):         187.23%
+
+    Manhattan:
+    Total Distance x Byte Before:    811760640.00
+    Total Distance x Byte After:     1972386112.00
+    Percentage Change (Total):       142.98%
+    Max Distance x Byte Before:      786432.00
+    Max Distance x Byte After:       2359296.00
+    Percentage Change (Max):         200.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    756787328.00
+    Total Distance x Byte After:     1429669184.00
+    Percentage Change (Total):       88.91%
+    Max Distance x Byte Before:      393216.00
+    Max Distance x Byte After:       1572864.00
+    Percentage Change (Max):         300.00%
+    ==================================================
+
+/ ------------------------------------------------------------------------------------- /
+
+SP_S_16:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    51036271.39
+    Total Distance x Byte After:     57564339.14
+    Percentage Change (Total):       12.79%
+    Max Distance x Byte Before:      908093.45
+    Max Distance x Byte After:       1284238.08
+    Percentage Change (Max):         41.42%
+
+    Manhattan:
+    Total Distance x Byte Before:    67503968.00
+    Total Distance x Byte After:     77858720.00
+    Percentage Change (Total):       15.34%
+    Max Distance x Byte Before:      1572864.00
+    Max Distance x Byte After:       2097152.00
+    Percentage Change (Max):         33.33%
+
+    Chebyshev:
+    Total Distance x Byte Before:    40502464.00
+    Total Distance x Byte After:     47318448.00
+    Percentage Change (Total):       16.83%
+    Max Distance x Byte Before:      524288.00
+    Max Distance x Byte After:       1048576.00
+    Percentage Change (Max):         100.00%
+    =================================================
+
+SP_D_256:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    1565923140802.76
+    Total Distance x Byte After:     3515693203346.20
+    Percentage Change (Total):       124.51%
+    Max Distance x Byte Before:      1859775393.38
+    Max Distance x Byte After:       9174054165.76
+    Percentage Change (Max):         393.29%
+
+    Manhattan:
+    Total Distance x Byte Before:    1898375638464.00
+    Total Distance x Byte After:     4672656261376.00
+    Percentage Change (Total):       146.14%
+    Max Distance x Byte Before:      3221225472.00
+    Max Distance x Byte After:       11811160064.00
+    Percentage Change (Max):         266.67%
+
+    Chebyshev:
+    Total Distance x Byte Before:    1340029889984.00
+    Total Distance x Byte After:     3100563924256.00
+    Percentage Change (Total):       131.38%
+    Max Distance x Byte Before:      1073741824.00
+    Max Distance x Byte After:       8589934592.00
+    Percentage Change (Max):         700.00%
+    ==================================================
+
+
+/ ------------------------------------------------------------------------------------- /
+
+XHPCG_16:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    1457282847.38
+    Total Distance x Byte After:     1918185808.85
+    Percentage Change (Total):       31.63%
+    Max Distance x Byte Before:      25165824.00
+    Max Distance x Byte After:       50331648.00
+    Percentage Change (Max):         100.00%
+
+    Manhattan:
+    Total Distance x Byte Before:    1477312512.00
+    Total Distance x Byte After:     2299297792.00
+    Percentage Change (Total):       55.64%
+    Max Distance x Byte Before:      25165824.00
+    Max Distance x Byte After:       50331648.00
+    Percentage Change (Max):         100.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    1443168256.00
+    Total Distance x Byte After:     1655111680.00
+    Percentage Change (Total):       14.69%
+    Max Distance x Byte Before:      25165824.00
+    Max Distance x Byte After:       50331648.00
+    Percentage Change (Max):         100.00%
+    ==================================================
+
+XHPCG_128:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    31459094538.75
+    Total Distance x Byte After:     33378429520.34
+    Percentage Change (Total):       6.10%
+    Max Distance x Byte Before:      103761350.51
+    Max Distance x Byte After:       128321027.65
+    Percentage Change (Max):         23.67%
+
+    Manhattan:
+    Total Distance x Byte Before:    33229897728.00
+    Total Distance x Byte After:     39660617728.00
+    Percentage Change (Total):       19.35%
+    Max Distance x Byte Before:      125829120.00
+    Max Distance x Byte After:       201326592.00
+    Percentage Change (Max):         60.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    31149654016.00
+    Total Distance x Byte After:     31143927808.00
+    Percentage Change (Total):       -0.02%
+    Max Distance x Byte Before:      100663296.00
+    Max Distance x Byte After:       100663296.00
+    Percentage Change (Max):         0.00%
+    ==================================================
+
+XHPCG_512:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    311638397954.86
+    Total Distance x Byte After:     157245423893.44
+    Percentage Change (Total):       -49.54%
+    Max Distance x Byte Before:      202893359.54
+    Max Distance x Byte After:       191657205.61
+    Percentage Change (Max):         -5.54%
+
+    Manhattan:
+    Total Distance x Byte Before:    333270482944.00
+    Total Distance x Byte After:     185687851008.00
+    Percentage Change (Total):       -44.28%
+    Max Distance x Byte Before:      226492416.00
+    Max Distance x Byte After:       251658240.00
+    Percentage Change (Max):         11.11%
+
+    Chebyshev:
+    Total Distance x Byte Before:    308993196032.00
+    Total Distance x Byte After:     146325651456.00
+    Percentage Change (Total):       -52.64%
+    Max Distance x Byte Before:      201326592.00
+    Max Distance x Byte After:       176160768.00
+    Percentage Change (Max):         -12.50%   
+    ==================================================
+
+/ ------------------------------------------------------------------------------------- /
+
+XHPL_16:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    311638397954.86
+    Total Distance x Byte After:     157245423893.44
+    Percentage Change (Total):       -49.54%
+    Max Distance x Byte Before:      202893359.54
+    Max Distance x Byte After:       191657205.61
+    Percentage Change (Max):         -5.54%
+
+    Manhattan:
+    Total Distance x Byte Before:    333270482944.00
+    Total Distance x Byte After:     185687851008.00
+    Percentage Change (Total):       -44.28%
+    Max Distance x Byte Before:      226492416.00
+    Max Distance x Byte After:       251658240.00
+    Percentage Change (Max):         11.11%
+
+    Chebyshev:
+    Total Distance x Byte Before:    308993196032.00
+    Total Distance x Byte After:     146325651456.00
+    Percentage Change (Total):       -52.64%
+    Max Distance x Byte Before:      201326592.00
+    Max Distance x Byte After:       176160768.00
+    Percentage Change (Max):         -12.50%   
+    ==================================================
+
+XHPL_128:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    24284956.00
+    Total Distance x Byte After:     17396917.02
+    Percentage Change (Total):       -28.36%
+    Max Distance x Byte Before:      4194304.00
+    Max Distance x Byte After:       2965820.80
+    Percentage Change (Max):         -29.29%
+
+    Manhattan:
+    Total Distance x Byte Before:    24284956.00
+    Total Distance x Byte After:     22317672.00
+    Percentage Change (Total):       -8.10%
+    Max Distance x Byte Before:      4194304.00
+    Max Distance x Byte After:       4194304.00
+    Percentage Change (Max):         0.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    24284956.00
+    Total Distance x Byte After:     13917712.00
+    Percentage Change (Total):       -42.69%
+    Max Distance x Byte Before:      4194304.00
+    Max Distance x Byte After:       2097152.00
+    Percentage Change (Max):         -50.00%
+    ==================================================
+
+XHPL_512:
+    Distance x Byte Summary:
+    ==================================================
+    Euclidean:
+    Total Distance x Byte Before:    24432704.00
+    Total Distance x Byte After:     17484370.75
+    Percentage Change (Total):       -28.44%
+    Max Distance x Byte Before:      4194304.00
+    Max Distance x Byte After:       2965820.80
+    Percentage Change (Max):         -29.29%
+
+    Manhattan:
+    Total Distance x Byte Before:    24432704.00
+    Total Distance x Byte After:     22425688.00
+    Percentage Change (Total):       -8.21%
+    Max Distance x Byte Before:      4194304.00
+    Max Distance x Byte After:       4194304.00
+    Percentage Change (Max):         0.00%
+
+    Chebyshev:
+    Total Distance x Byte Before:    24432704.00
+    Total Distance x Byte After:     13991672.00
+    Percentage Change (Total):       -42.73%
+    Max Distance x Byte Before:      4194304.00
+    Max Distance x Byte After:       2097152.00
+    Percentage Change (Max):         -50.00%
+    ==================================================
+
+/ ------------------------------------------------------------------------------------- /
